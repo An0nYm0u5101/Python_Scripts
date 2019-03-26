@@ -1,7 +1,7 @@
 # Python-Scripts 
 
 ## hitz_top30
-Install with ``pip install -r requirements.txt``
+Install requirements with ``pip install -r requirements.txt``
 
 1. Run the script with ``--debug`` flag to enable debug mode.
 2. If the response code is showing 503, it will most likely be Google Captcha limiting the request.
